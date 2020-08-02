@@ -74,7 +74,7 @@ Please refer to this Github link.
 Website: https://www.coursera.org/specializations/deep-learning#courses
 
 - Course 1: Neural Networks and Deep Learning (completed). Please refer to this link
-- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (ongoig, completed week 1 out of 3). Please refer to this link
+- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (ongoing, completed week 1 out of 3). Please refer to this link
 - Course 3: Structuring Machine Learning Projects (not started it yet)
 - Course 4: Convolutional Neural Networks (ongoing, completed week 1, and 2 out of 4). Please refer to this link
 - Course 5: Sequence Models (not started it yet)
