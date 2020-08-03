@@ -1,8 +1,15 @@
 # Machine_Learning
 A collection of Machine Learning Study
 
-0. Thesis
+### 0. Master's Thesis: An alternative method of Concordance correlation random subspace method
 
+Website: https://www.overleaf.com/read/rzhvpyyfrqpb
+
+Personal/Main Objectives: 
+  - Learn how to write and edit an academic paper
+  - Practice designing a machine learning project with clear objectives
+  - Modify and develop algorithm in an open-source ML software, Weka (Java)
+ 
 ### 1. Neural Networks Code Assignment (Fall 2019 USF Data Mining)
 
 Overview: a skeleton code, mnistfashionmod19.py, was provided to classify each example into its correct class among 10 classes. Modify the code so that the performance is improved above a given boundary. Explain your changes and its impact to the model.
@@ -27,10 +34,12 @@ Description:
 
 Dataset: 4 examples, 4 features, and the last column is the label.
 
-1	0	0	0
-0	1	0	0
-0	0	1	0
-0	0	0	1
+| 1st | 2nd|3rd|4th|
+| ---|---|---|---|
+| 1  | 0 | 0 | 0 |
+| 0	 | 1 | 0 | 0 |
+| 0	 | 0 | 1 | 0 | 
+| 0	 | 0 | 0 | 1 |
 
 ### 3. Extract features from Autoencoder using Keras/Tensorflow (Spring 2020 USF Machine Learning) 
 
