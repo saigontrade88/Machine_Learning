@@ -49,7 +49,7 @@ Description: "From the autoencoder that you built previously (4 inputs and 4 out
 
 ### 4. Build a CNN using Keras/Tensorflow (Final project, Spring 2020 USF Machine Learning) on Gaivi's GPU, https://www.csee.usf.edu/gaivi/ 
 
-Overview: Given the skeleton code, cifar52020class.py, by doing the requirements, I understand that one of the disadvantage of CNN is of a large number of parameters to be adjusted so execution time together with cloud renting cost is a consideration when training a complicated model. 
+Overview: Given the skeleton code, cifar52020class.py, by doing the requirements, I understand that one of the disadvantages of CNN is of a large number of parameters to be adjusted/updated, so execution time together with computer rental cost is a consideration when training a complicated model. 
 
 Description:
 
