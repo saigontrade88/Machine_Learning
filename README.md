@@ -76,7 +76,7 @@ The classes are:
 
 ### 5. Coursera's Machine Learning (completed, Summer and Fall 2019 on Coursera, virtually instructed by Dr.Andrew Ng, https://www.linkedin.com/in/andrewyng/)
 
-Please refer to this Github link.
+Please refer to this Github [link](https://github.com/saigontrade88/Coursera_ML_Stanford_Uni/tree/master/Stanford).
 
 ### 6. Deep Learning Specialization(ongoing, Spring 20 on Coursera, virtually instructed by Dr.Andrew Ng)
 
