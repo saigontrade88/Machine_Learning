@@ -12,7 +12,7 @@ Personal/Main Objectives:
  
 ### 1. Neural Networks Code Assignment (Fall 2019 USF Data Mining)
 
-Overview: a skeleton code, #mnistfashionmod19.py#, was provided to classify each example into its correct class among 10 classes. Modify the code so that the performance is improved above a given boundary. Explain your changes and its impact to the model.
+Overview: a skeleton code, #mnistfashionmod19.py, was provided to classify each example into its correct class among 10 classes. Modify the code so that the performance is improved above a given boundary. Explain your changes and its impact to the model.
 
 Despcrition: (Ref: Dr.Lawrence Hall, Department of Computer Science and Engineering, University of South Florida). 
 
