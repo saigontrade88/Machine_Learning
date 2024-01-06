@@ -36,7 +36,7 @@ Course's Website: https://www.coursera.org/specializations/deep-learning#courses
 
 Courses's website: https://www.coursera.org/specializations/algorithms
 
-- Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Completed and [link](https://coursera.org/share/320d95b509057f7786f2bda724955818)
+- Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Completed with [certification](https://coursera.org/share/320d95b509057f7786f2bda724955818)).
 - Course 2: Graph Search, Shortest Paths, and Data Structures
 - Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 - Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
