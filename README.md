@@ -40,3 +40,12 @@ Courses's website: https://www.coursera.org/specializations/algorithms
 - Course 2: Graph Search, Shortest Paths, and Data Structures
 - Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 - Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+### Online learning. Stanford Algorithms Specialization (ongoing)
+
+Courses's website: https://www.coursera.org/specializations/mathematics-machine-learning
+
+- Course 1: Mathematics for Machine Learning: Linear Algebra (Completed with [certification](https://coursera.org/share/bc9f968147d2ecc433231f83d0c4967a)).
+- Course 2: Mathematics for Machine Learning: Multivariate Calculus (ongoing)
+- Course 3: Mathematics for Machine Learning: PCA
+
