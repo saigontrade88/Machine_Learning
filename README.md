@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine_Learning & Algorithms
 My personal collection of Machine Learning/Deep Learning
 
 ### 0. Master's Thesis: An alternative method of Concordance correlation random subspace method
@@ -32,3 +32,10 @@ Course's Website: https://www.coursera.org/specializations/deep-learning#courses
 - Course 3: Structuring Machine Learning Projects (not started yet)
 - Course 4: Convolutional Neural Networks (ongoing, completed weeks 1, and 2 out of 4). Please refer to the Github link.
 - Course 5: Sequence Models (not started it yet)
+### Online learning. Stanford Algorithms Specialization (ongoing) 
+
+Courses's website: https://www.coursera.org/specializations/algorithms
+Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Completed and [link](https://coursera.org/share/320d95b509057f7786f2bda724955818)
+Course 2: Graph Search, Shortest Paths, and Data Structures
+Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
