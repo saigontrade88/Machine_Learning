@@ -17,11 +17,11 @@ Link: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003187158-2/machin
 ### 2. Dang, Long, Thushari Hapuarachchi, Kaiqi Xiong, and Jing Lin. "Improving Machine Learning Robustness via Adversarial Training." 
 In 2023 32nd International Conference on Computer Communications and Networks (ICCCN), pp. 1-10. IEEE, 2023.
  
-### Online learning. Coursera's Machine Learning (Matlab) (completed, Summer and Fall 2019 on Coursera, virtually instructed by Dr.Andrew Ng, https://www.linkedin.com/in/andrewyng/)
+### Online learning. Coursera's Machine Learning (Matlab) (completed in Summer and Fall 2019)
 
 Please refer to this Github [link](https://github.com/saigontrade88/Coursera_ML_Stanford_Uni/tree/master/Stanford).
 
-### Online learning. Deep Learning Specialization (Python) (ongoing, Spring 20 on Coursera, virtually instructed by Dr.Andrew Ng)
+### Online learning. Deep Learning Specialization (Python) (ongoing)
 
 Github: https://github.com/saigontrade88/Coursera_Deep_Learning
 
