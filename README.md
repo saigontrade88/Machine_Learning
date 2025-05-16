@@ -1,5 +1,5 @@
 # Machine_Learning & Algorithms
-My personal collection of Machine Learning/Deep Learning and Algorrith
+My personal collection of Machine Learning/Deep Learning and Algorrithm
 
 ### 0. Master's Thesis: An alternative method of Concordance correlation random subspace method
 
